@@ -1,0 +1,15 @@
+{
+	"soda": [{
+		"name": "coca cola",
+		"image": "/images/cocacola.jpg"
+	},
+	{
+		"name": "sprite",
+		"image": "/images/sprite.jpg"
+	},
+	{
+		"name": "orange cream",
+		"image": "/images/orangecream.jpg"
+	}
+	]
+}
